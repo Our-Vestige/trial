@@ -10,7 +10,7 @@
 	    background-image:url('https://our-vestige.github.io/trial/HtmlFiles/images/img.png');
         background-repeat:no-repeat; 
 		height:550px;
-		width:1920;
+		width:1990;
    }
   h1{
      text-align:center;
